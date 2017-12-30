@@ -1,12 +1,13 @@
 # RegularExpression
-Implement regular expression matching with support for '.' and '*'.<br>
-' \. ' Matches any single character.<br>
-' \* ' Matches zero or more of the preceding element.<br>
+Implement regular expression matching with support for '.' and '*'.
 
-The matching should cover the entire input string (not partial).<br>
+' \. ' Matches any single character.
+' \* ' Matches zero or more of the preceding element.
 
-The function prototype should be:<br>
-bool isMatch(const char *s, const char *p)<br>
+The matching should cover the entire input string (not partial).
+
+The function prototype should be:
+bool isMatch(const char *s, const char *p)
 
 Some examples:<br>
 
