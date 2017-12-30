@@ -1,7 +1,7 @@
 # RegularExpression
 Implement regular expression matching with support for '.' and '*'.<br>
-'.' Matches any single character.<br>
-'*' Matches zero or more of the preceding element.<br>
+' \. ' Matches any single character.<br>
+' \* 'Matches zero or more of the preceding element.<br>
 
 The matching should cover the entire input string (not partial).<br>
 
