@@ -21,9 +21,6 @@ isMatch("aa", ".*") → true
 isMatch("ab", ".*") → true
 isMatch("aab", "c*a*b") → true
 ```
-<<<<<<< HEAD
 
-=======
->>>>>>> d2ce169261c927ecac4ad4492c8b85d6b531fd24
 
 
