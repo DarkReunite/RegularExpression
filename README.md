@@ -1,7 +1,8 @@
 # RegularExpression
 Implement regular expression matching with support for '.' and '*'.
 
-' \. ' Matches any single character.
+
+' \. ' Matches any single character.<br>
 ' \* ' Matches zero or more of the preceding element.
 
 The matching should cover the entire input string (not partial).
@@ -20,4 +21,9 @@ isMatch("aa", ".*") → true
 isMatch("ab", ".*") → true
 isMatch("aab", "c*a*b") → true
 ```
+<<<<<<< HEAD
+
+=======
+>>>>>>> d2ce169261c927ecac4ad4492c8b85d6b531fd24
+
 
