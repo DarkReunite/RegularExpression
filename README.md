@@ -10,9 +10,11 @@ bool isMatch(const char *s, const char *p)<br>
 
 Some examples:<br>
 
-`isMatch("aa","a") → false`
-`isMatch("aa","aa") → true<br>`
+```
+isMatch("aa","a") → false
+isMatch("aa","aa") → true<br>
 isMatch("aaa","aa") → false<br>
 isMatch("aa", "a\*") → true<br>
 isMatch("aa", ".\*") → true <br>
 isMatch("aab", "c*a*b") → true<br>
+```
