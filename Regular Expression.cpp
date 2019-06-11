@@ -1,6 +1,7 @@
 #include <iostream>
 #define MAX 100
 using namespace std;
+// unkown error
 
 bool isMatch(const char *s, const char *p)
 {
